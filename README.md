@@ -1,3 +1,5 @@
+Egor Shakhonin
+
 # Quick Start
 
 ## 1. Клонируйте репозиторий
